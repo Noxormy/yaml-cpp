@@ -1,3 +1,9 @@
 build/
 /tags
 /bazel-*
+/.idea/
+/.vs/
+Debug/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
